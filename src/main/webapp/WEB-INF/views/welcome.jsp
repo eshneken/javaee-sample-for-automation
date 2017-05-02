@@ -50,7 +50,7 @@
   <div class="container serviceContainer" style="margin-top: 150px;">
     <div class="overviewLayout">
       <div>
-              <br>Ed Shnekendorf's SpringBoot application demo. Current server time: <%= new java.util.Date() %> <br>
+              <br>CodeRed Reston  SpringBoot application demo. Current server time: <%= new java.util.Date() %> <br>
               <br>
               <p>
                 <span style="color: #333; text-decoration: none">Build faster and release often with Wercker's Docker-Native 
