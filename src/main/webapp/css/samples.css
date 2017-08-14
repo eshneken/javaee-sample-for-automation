@@ -5,7 +5,7 @@
 	  bulleted procedures ("To do this").
 	- pre: For code blocks
 	- langinline: For code fragments within a (non-code) regular section.
-	- notepara: Notes	 
+	- notepara: Notes
 */
 h1,
 h2,
@@ -46,7 +46,7 @@ h3 {
 	margin-bottom: .6em;
 }
 
-/* Use h4 for all fourth-level headings. 
+/* Use h4 for all fourth-level headings.
    Note: this style looks identical to the relatedtopics and proctitle styles. */
 h4 {
 	font-size: 100%;
@@ -55,7 +55,7 @@ h4 {
 	margin-bottom: .6em;
 }
 
-/* Use h5 for all fifth-level heading.  
+/* Use h5 for all fifth-level heading.
    Currently, there are no h5s in use in the document.*/
 h5 {
 	font-size: 105%;
@@ -67,7 +67,7 @@ h5 {
 p.arttitle {
 	font-weight: Bold;
 }
-  
+
 
 /* Standard HTML tag. */
 body {
@@ -96,7 +96,7 @@ span.filepath {
 }
 
 /* The langinline style, like userinput and filepath, also renders text monospace. Use this
-   to denote any individual instance of code in the context of non-coded text. For example, 
+   to denote any individual instance of code in the context of non-coded text. For example,
    you would use this to denote the name of a class when you're describing it in the paragraph that
    precedes a code sample. To denote a code sample, however, use the <pre> tag. */
 span.langinline {
@@ -147,7 +147,7 @@ ul {
 
 /* Standard HTML tag. */
 li {
-	margin-top: .2em; 
+	margin-top: .2em;
 	margin-bottom: .7em;
 }
 
@@ -162,14 +162,14 @@ scrollbar-darkshadow-color:#EEEEEE;
 scrollbar-arrow-color:#666666;}
 
 A:link, A:active, A:visited {
-		COLOR: #0000aa; 
+		COLOR: #0000aa;
 		FONT-FAMILY:Tahoma,Arial,Helvetica,Verdana,sans-serif;
 		text-decoration:none;
 		}
 
-A:hover {COLOR: #000000; 
-		FONT-FAMILY:Tahoma,Arial,Helvetica,Verdana,sans-serif; 
-		text-decoration: underline; 
+A:hover {COLOR: #000000;
+		FONT-FAMILY:Tahoma,Arial,Helvetica,Verdana,sans-serif;
+		text-decoration: underline;
 		background-color: #E7EFFC;}
 
 textarea, select, option {background-color: #E7EFFC;
