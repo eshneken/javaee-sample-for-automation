@@ -1,1 +1,1 @@
-# wercker-springboot
+# javaee-sample-for-automation
