@@ -58,15 +58,15 @@
                                 <p>
                                     <span style="color: #333; text-decoration: none">This JEE application was built to demonstrate the use of infrasturcture-as-code principles and common open-source technologies with Oracle Cloud.</span>
                                 </p>
-                                <p></p><p></p>
+                                <br>
                                 <p>
                                     <span style="color: #333; text-decoration: none">Upon code being checked in, a Jenkins job detects the change and kicks off a maven build of the application.  Also, the Jenkins job creates a new Docker container off a Weblogic 12.2.1 image from a private repository, configures a domain, deploys the newly built application into that domain, and pushes the app image into the Docker repository.</span>
                                 </p>
-                                <p></p><p></p>
+                                <br>
                                 <p>
                                     <span style="color: #333; text-decoration: none">The first job triggers a second Jenkins job which kicks of a Terraform operation that stands up a virtual cloud network (VCN), internet gateway, security list, routing table, subnet, and compute instance in the Oracle Public Cloud.  After that infrastructure is created, Terraform triggers a Chef provisioner which configures the compute instance by installing the newly built docker container.</span>
                                 </p>
-                                <p></p><p></p>
+                                <br>
                                 <p>
                                     <span style="color: #333; text-decoration: none">This demonstrates how an entire cloud-based infrastructure could be automated in under 10 minutes.</span>
                                 </p>
