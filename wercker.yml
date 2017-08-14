@@ -1,7 +1,9 @@
-box: combient/java-mvn
 build:
+  box:
+    id: 129.213.60.3:5000/weblogic-1221
+    tag: latest
+    registry: 129.213.60.3:5000
   steps:
-    # Build Spring Boot Sample application
     - script:
         name: Maven install
         code: mvn install
