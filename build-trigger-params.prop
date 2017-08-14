@@ -1,0 +1,4 @@
+Region=us-ashburn-1
+Environment_Identifier=MyWeblogicTest
+Availability_Domain=3
+Docker_Application_Tag=wls_sample_app
