@@ -41,7 +41,7 @@
                 <div class="container serviceContainer" style="margin-top: 150px;">
                     <div class="overviewLayout">
                         <div>
-                            <br>Change text: Initial testing<br>
+                            <br>Change text: Austin Demo<br>
                             <br>Current server time:
                             <%= new java.util.Date() %> <br>
                                 <br>
