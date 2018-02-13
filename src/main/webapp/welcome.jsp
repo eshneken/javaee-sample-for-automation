@@ -41,7 +41,7 @@
                 <div class="container serviceContainer" style="margin-top: 150px;">
                     <div class="overviewLayout">
                         <div>
-                          <br>Change text: <strong>Schneider AppDev Demo</strong><br>
+                          <br>Change text: <strong>ADS AppDev Demo</strong><br>
                             <br>Current server time:
                             <%= new java.util.Date() %> <br>
                                 <br>
