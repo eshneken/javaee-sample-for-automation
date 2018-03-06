@@ -1,4 +1,4 @@
-FROM 129.213.60.3:5000/weblogic-1221
+FROM 129.213.22.38:5000/weblogic-1221
 
 ENV APP_NAME="sample" \
     APP_PKG_FILE="javaee-0.0.1.war" \
