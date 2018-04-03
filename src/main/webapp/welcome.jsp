@@ -41,7 +41,7 @@
                 <div class="container serviceContainer" style="margin-top: 150px;">
                     <div class="overviewLayout">
                         <div>
-                          <br>Change text: <strong>Gap AppDev Demo</strong><br>
+                          <br>Change text: <strong>The Second Gap Automation Demo</strong><br>
                             <br>Current server time:
                             <%= new java.util.Date() %> <br>
                                 <br>
